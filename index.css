@@ -278,7 +278,7 @@ nav ul li a:hover::after{
 .certificate-gallery{
     margin-top: 4rem;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-template-columns: repeat(3, minmax(270px, 1fr));
     gap: 2rem;
 }
 .certificate-box{
