@@ -1,5 +1,5 @@
 # 🚀 Exciting News! 🚀
-[Deb-PortfOlio](https://debash1sh-panda.github.io/Deb-PortfOlio/)
+[Click Deb-PortfOlio Project Link](https://debash1sh-panda.github.io/Deb-PortfOlio/)
 
 I'm thrilled to share the successful completion of my latest personal portfolio project! 🎉
 
