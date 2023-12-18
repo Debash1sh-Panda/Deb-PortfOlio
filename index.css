@@ -670,10 +670,10 @@ nav .fa-solid{
         transform: translateY(0);
     }
     .portfolio-layer h4{
-        font-size: .4rem;
+        font-size: .6rem;
     }
     .portfolio-layer p{
-        font-size: .2rem;
+        font-size: .3rem;
         margin: .4rem 0 1;
         color: #000;
     }
@@ -682,14 +682,14 @@ nav .fa-solid{
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        width: .5rem;
-        height: .5rem;
+        width: .6rem;
+        height: .6rem;
         background: #fff;
         border-radius: 20%;
         margin-top: .1rem;
     }
     .portfolio-layer a i{
-        font-size: .4rem;
+        font-size: .5rem;
         color: #272722;
     }
     /* ------------------- Portfolio/certificates ----------- */
@@ -755,12 +755,12 @@ nav .fa-solid{
         opacity: 1;
     }
     .certificate-content h3{
-        padding-top: .5rem;
-        font-size: .8rem;
-        font-weight: 600;
+        padding-top: .8rem;
+        font-size: .4rem;
+        font-weight: 400;
     }
     .certificate-content p{
-        font-size: .5rem;
+        font-size: .3rem;
         margin: 5px 0 15px 0;
     }
     /* --------------------- Portfolio/Hobbies --------------- */
