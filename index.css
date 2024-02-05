@@ -129,7 +129,7 @@ nav ul li a:hover::after{
 }
  /* ------------------- about -------------------------- */
 #about{
-    margin-top: .5rem;
+    margin-top: 0;
     padding-top: 25px;
     padding-bottom: 10rem;
 }
