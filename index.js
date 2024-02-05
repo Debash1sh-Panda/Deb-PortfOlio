@@ -30,7 +30,7 @@
             delay: 200
         });
 
-        ScrollReveal().reveal('.myheader-text, .sub-title', { origin: 'top'});
+        ScrollReveal().reveal('.myheader-text', { origin: 'top'});
         ScrollReveal().reveal('.about-col1, .myheader-text h1, .btn', { origin: 'left'});
         ScrollReveal().reveal('.input-right-animation',{ origin: 'right'});
         ScrollReveal().reveal('.portfolio-container, .certificate-gallery, .hobbies-container', { origin: 'bottom'});
