@@ -38,6 +38,7 @@
         ScrollReveal().reveal('#myhead li' ,{origin: 'top'});
         ScrollReveal().reveal('.dear' ,{origin: 'left'});
 
+
         
         //--------------------- typed script ---------------
         const typed = new Typed('.multiple-text', {
