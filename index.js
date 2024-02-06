@@ -34,7 +34,6 @@
         ScrollReveal().reveal('.about-col1, .myheader-text h1, .btn, .lbox1, .lbox4', { origin: 'left'});
         ScrollReveal().reveal('.input-right-animation, .rbox3, .rbox6',{ origin: 'right'});
         ScrollReveal().reveal('.certificate-gallery, .hobbies-container, .mbox5', { origin: 'bottom'});
-        ScrollReveal().reveal('#myhead li' ,{origin: 'top'});
         ScrollReveal().reveal('.dear' ,{origin: 'left'});
 
 
