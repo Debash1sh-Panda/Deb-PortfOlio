@@ -27,13 +27,13 @@
             reset: true,
             distance: '80px',
             duration: 2000,
-            delay: 200
+            delay: 250
         });
 
-        ScrollReveal().reveal('.myheader-text', { origin: 'top'});
-        ScrollReveal().reveal('.about-col1, .myheader-text h1, .btn', { origin: 'left'});
-        ScrollReveal().reveal('.input-right-animation',{ origin: 'right'});
-        ScrollReveal().reveal('.portfolio-container, .certificate-gallery, .hobbies-container', { origin: 'bottom'});
+        ScrollReveal().reveal('.myheader-text, .sub-title, .mbox2', { origin: 'top'});
+        ScrollReveal().reveal('.about-col1, .myheader-text h1, .btn, .lbox1, .lbox4', { origin: 'left'});
+        ScrollReveal().reveal('.input-right-animation, .rbox3, .rbox6',{ origin: 'right'});
+        ScrollReveal().reveal('.certificate-gallery, .hobbies-container, .mbox5', { origin: 'bottom'});
         ScrollReveal().reveal('#myhead li' ,{origin: 'top'});
         ScrollReveal().reveal('.dear' ,{origin: 'left'});
 
