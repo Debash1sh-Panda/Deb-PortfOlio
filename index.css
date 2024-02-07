@@ -642,6 +642,8 @@ nav .fa-solid{
         box-shadow: 0 0 .8rem #676b58;
         overflow: hidden;
         display: flex;
+        height: 5rem;
+        width: 5rem;
     }
     .portfolio-box img{
         width: 150%;
