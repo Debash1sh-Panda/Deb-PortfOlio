@@ -11,6 +11,9 @@ body{
     background-color: #000000;
     color: #fff;
 }
+audio {
+    display: none;
+  }
 /* --------------------- nav/highlights ------------------ */
 #myhead{
     background-image: url("image/bgimage1.jpg");
