@@ -70,3 +70,19 @@
             .catch(error => console.error('Error!', error.message))
         })
 
+        //----------- eventListener Audio play -------------
+         const bodyclick = document.querySelector('body');
+        const audio = document.querySelector('audio');
+
+        bodyclick.addEventListener('click', () => {
+        const isActive = bodyclick.classList.contains('active');
+        if (isActive) {
+            bodyclick.classList.remove('active');
+            // audio.pause();
+            gradient.style.opacity = 0;
+          } else {
+            bodyclick.classList.add('active');
+            audio.play();
+            gradient.style.opacity = 1;
+          }
+        });
