@@ -133,7 +133,7 @@ nav ul li a:hover::after{
  /* ------------------- about -------------------------- */
 #about{
     margin-top: 0;
-    padding-top: 25px;
+    padding-top: 10rem;
     padding-bottom: 10rem;
 }
 .row{
